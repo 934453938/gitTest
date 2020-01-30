@@ -1,1 +1,2 @@
 this is a first test fot git.
+this is a second test for git.
